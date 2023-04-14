@@ -11,7 +11,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     color: white;
-    
+
 }
 ul {
     display:flex;
@@ -20,18 +20,30 @@ ul {
     margin-right: 20px;
 
 }
-h3 {
+
+h2 {
     color: orange;
     margin-left: 15px;
 }
 
+li {
+    font-size: 25px;
+}
 a {
     text-decoration: none;
     color: white;
-   
+
 }
 
 a:hover {
     color: orange;
     size: 22px;
+}
+
+.header-line {
+    position: absolute;
+    font:;
+    size: 40px;
+    top:150px;
+    left:100px;
 }
